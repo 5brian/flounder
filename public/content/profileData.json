@@ -2,18 +2,18 @@
   "general": {
     "profilePhoto": null,
     "username": "briantan",
-    "displayName": "brian tan",
+    "displayName": "Brian Tan",
     "profession": null,
     "location": null,
     "pronouns": "he/him",
     "byline": "he/him",
     "website": "https://www.brian-tan.me/",
     "websiteURL": "https://www.brian-tan.me/",
-    "about": null,
+    "about": "undergrad computer science & math",
     "status": {
-      "text": "ask me for my resume tan.1220@osu.edu :)",
-      "emoji": "☔️",
-      "timestamp": "2024-09-21T22:56:40.695Z"
+      "text": null,
+      "emoji": null,
+      "timestamp": null
     },
     "sectionOrder": [
       "Work Experience",
@@ -36,7 +36,7 @@
       "id": "NOero7ntqitdtdM64QJx",
       "year": "2024",
       "heading": "The Legend of Zelda (NES 1986)",
-      "url": "https://github.com/caelummmuhhh/CSE3902-Game",
+      "url": null,
       "collaborators": [],
       "description": "A classic 2D adventure game focusing on detailed collision detection and game mechanics. This project includes intricate enemy behaviors, item interactions, and room transitions.\\\nC#, .NET, MonoGame",
       "attachments": [
@@ -50,21 +50,34 @@
       "type": "project",
       "title": "The Legend of Zelda (NES 1986)",
       "company": ""
-    },
-    {
-      "id": "FROdkh8twLmwWQcCPSbt",
-      "year": "2023",
-      "heading": "assembly bit stream cipher decoder",
-      "url": "https://github.com/yoleuh/decode-assembly",
-      "collaborators": [],
-      "description": "encryption algorithm that encrypts 1 byte of plain text at a time\\\nx86-64 atnt assembly",
-      "attachments": [],
-      "type": "project",
-      "title": "assembly bit stream cipher decoder",
-      "company": ""
     }
   ],
   "sideProjects": [
+    {
+      "id": "BGi1NxO2wVaQU2hHiy3f",
+      "year": "2025",
+      "heading": "old.bsky",
+      "url": "https://github.com/5brian/old.bsky",
+      "collaborators": [],
+      "description": "custom bluesky web client inspired by old.reddit.com",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3580,
+          "height": 2268,
+          "url": "/content/media/oldbsky-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2022,
+          "height": 1156,
+          "url": "/content/media/oldbsky-2.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "old.bsky",
+      "company": ""
+    },
     {
       "id": "ivZHJdNmrWErCflhD1lk",
       "year": "2024",
@@ -89,117 +102,6 @@
       "type": "sideProject",
       "title": "subscriptions calendar",
       "company": ""
-    },
-    {
-      "id": "KLXjYXZz28xMwBVqB3vk",
-      "year": "2024",
-      "heading": "leetcode progress calculator",
-      "url": "https://leetcode-progress.vercel.app/",
-      "collaborators": [],
-      "description": "",
-      "attachments": [
-        {
-          "type": "image",
-          "width": 3360,
-          "height": 2100,
-          "url": "/content/media/leetcode-progress-calculator.gif"
-        }
-      ],
-      "type": "sideProject",
-      "title": "leetcode progress calculator",
-      "company": ""
-    },
-    {
-      "id": "WEn9RDLGglOlglJn6caO",
-      "year": "2024",
-      "heading": "Quandary Language Support for Neovim",
-      "url": "https://github.com/yoleuh/quandary-nvim",
-      "collaborators": [],
-      "description": "A Neovim plugin that provides language support for Quandary, including syntax highlighting.\\\nLua, Neovim API",
-      "attachments": [
-        {
-          "type": "image",
-          "width": 1920,
-          "height": 1080,
-          "url": "/content/media/Quandary-Language-Support-for-Neovim-1.png"
-        },
-        {
-          "type": "image",
-          "width": 1920,
-          "height": 1080,
-          "url": "/content/media/Quandary-Language-Support-for-Neovim-2.png"
-        }
-      ],
-      "type": "sideProject",
-      "title": "Quandary Language Support for Neovim",
-      "company": ""
-    },
-    {
-      "id": "b3VB82zKFUgBPlUyObX0",
-      "year": "2024",
-      "heading": "laundry simulator",
-      "url": "https://laundrys.vercel.app/",
-      "collaborators": [],
-      "description": "",
-      "attachments": [
-        {
-          "type": "image",
-          "width": 3360,
-          "height": 2100,
-          "url": "/content/media/laundry-simulator.gif"
-        }
-      ],
-      "type": "sideProject",
-      "title": "laundry simulator",
-      "company": ""
-    },
-    {
-      "id": "t4KnOOcvlsRY5NwQXSiJ",
-      "year": "2024",
-      "heading": "twitter bot",
-      "url": "https://github.com/yoleuh/twitter-bot",
-      "collaborators": [],
-      "description": "downloads videos\\\nTypescript, Next.JS",
-      "attachments": [],
-      "type": "sideProject",
-      "title": "twitter bot",
-      "company": ""
-    },
-    {
-      "id": "4vB9aQZtRawTtIN1wQui",
-      "year": "2024",
-      "heading": "all my things",
-      "url": "http://brian-tan.me",
-      "collaborators": [],
-      "description": "",
-      "attachments": [],
-      "type": "sideProject",
-      "title": "all my things",
-      "company": ""
-    },
-    {
-      "id": "UxYSHTEn8aWxq6ArISs0",
-      "year": "2023",
-      "heading": "css again (grid)",
-      "url": "https://brian-tan.vercel.app/",
-      "collaborators": [],
-      "description": null,
-      "attachments": [],
-      "type": "sideProject",
-      "title": "css again (grid)",
-      "company": null
-    },
-    {
-      "id": "jv9HOe6Grv6qOtMYW1U2",
-      "year": "2023",
-      "heading": "this is an epilepsy warning",
-      "url": "https://yoleuh.github.io/",
-      "collaborators": [],
-      "description": "centering divs\nhtml, css",
-      "attachments": [],
-      "type": "sideProject",
-      "title": "this is an epilepsy warning",
-      "company": null
     },
     {
       "id": "84jSRB0GXpEO3XdJSMA2",
@@ -318,30 +220,43 @@
   "features": [],
   "workExperience": [
     {
+      "id": "HVberbtBLOnWbQDflZ87",
+      "year": "2025 — Now",
+      "heading": "air traffic control specialist trainee at FAA",
+      "url": "https://www.faa.gov/air_traffic",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "air traffic control specialist trainee",
+      "company": "FAA",
+      "location": "Mike Monroney Aeronautical Center"
+    },
+    {
+      "id": "8RRS0FmtW9RTZ9lblbWB",
+      "year": "2022 — 2024",
+      "heading": "student assistant/cashier at curl market",
+      "url": "https://dining.osu.edu/dininglocations/curl-market/",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "student assistant/cashier",
+      "company": "curl market",
+      "location": "Ohio State University"
+    },
+    {
       "id": "r8KmxROfjxtCMhsPOAlv",
       "year": "2023 — 2023",
       "heading": "computer systems engineer intern at Peblla, Inc.",
       "url": "https://www.peblla.com/",
       "collaborators": [],
-      "description": "Metabase, MySQL, SQL",
+      "description": "",
       "attachments": [],
       "type": "workExperience",
       "title": "computer systems engineer intern",
       "company": "Peblla, Inc.",
-      "location": "rockville"
-    },
-    {
-      "id": "8RRS0FmtW9RTZ9lblbWB",
-      "year": "2022 — 2023",
-      "heading": "student assistant/cashier at curl market",
-      "url": "https://dining.osu.edu/dininglocations/curl-market/",
-      "collaborators": [],
-      "description": "burrito folding",
-      "attachments": [],
-      "type": "workExperience",
-      "title": "student assistant/cashier",
-      "company": "curl market",
-      "location": "osu"
+      "location": "North Bethesda, Maryland"
     }
   ],
   "volunteering": [
@@ -418,7 +333,7 @@
       "heading": "bs computer science engineering at ohio state university",
       "url": null,
       "collaborators": [],
-      "description": "math, physics, cs\n\nconcentration: artificial intelligence",
+      "description": "",
       "attachments": [],
       "type": "education",
       "degree": "bs computer science engineering",
@@ -499,12 +414,6 @@
       "url": "mailto:hi@brian-tan.me"
     },
     {
-      "id": "nilFEkdtbK4y2T9tbTM1",
-      "platform": "Email",
-      "handle": "tan.1220@osu.edu",
-      "url": "mailto:tan.1220@osu.edu"
-    },
-    {
       "id": "0q4q7FPNBdfLI921riwF",
       "platform": "GitHub",
       "handle": "5brian",
@@ -516,30 +425,43 @@
       "name": "Work Experience",
       "items": [
         {
+          "id": "HVberbtBLOnWbQDflZ87",
+          "year": "2025 — Now",
+          "heading": "air traffic control specialist trainee at FAA",
+          "url": "https://www.faa.gov/air_traffic",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "air traffic control specialist trainee",
+          "company": "FAA",
+          "location": "Mike Monroney Aeronautical Center"
+        },
+        {
+          "id": "8RRS0FmtW9RTZ9lblbWB",
+          "year": "2022 — 2024",
+          "heading": "student assistant/cashier at curl market",
+          "url": "https://dining.osu.edu/dininglocations/curl-market/",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "student assistant/cashier",
+          "company": "curl market",
+          "location": "Ohio State University"
+        },
+        {
           "id": "r8KmxROfjxtCMhsPOAlv",
           "year": "2023 — 2023",
           "heading": "computer systems engineer intern at Peblla, Inc.",
           "url": "https://www.peblla.com/",
           "collaborators": [],
-          "description": "Metabase, MySQL, SQL",
+          "description": "",
           "attachments": [],
           "type": "workExperience",
           "title": "computer systems engineer intern",
           "company": "Peblla, Inc.",
-          "location": "rockville"
-        },
-        {
-          "id": "8RRS0FmtW9RTZ9lblbWB",
-          "year": "2022 — 2023",
-          "heading": "student assistant/cashier at curl market",
-          "url": "https://dining.osu.edu/dininglocations/curl-market/",
-          "collaborators": [],
-          "description": "burrito folding",
-          "attachments": [],
-          "type": "workExperience",
-          "title": "student assistant/cashier",
-          "company": "curl market",
-          "location": "osu"
+          "location": "North Bethesda, Maryland"
         }
       ]
     },
@@ -550,7 +472,7 @@
           "id": "NOero7ntqitdtdM64QJx",
           "year": "2024",
           "heading": "The Legend of Zelda (NES 1986)",
-          "url": "https://github.com/caelummmuhhh/CSE3902-Game",
+          "url": null,
           "collaborators": [],
           "description": "A classic 2D adventure game focusing on detailed collision detection and game mechanics. This project includes intricate enemy behaviors, item interactions, and room transitions.\\\nC#, .NET, MonoGame",
           "attachments": [
@@ -564,24 +486,37 @@
           "type": "project",
           "title": "The Legend of Zelda (NES 1986)",
           "company": ""
-        },
-        {
-          "id": "FROdkh8twLmwWQcCPSbt",
-          "year": "2023",
-          "heading": "assembly bit stream cipher decoder",
-          "url": "https://github.com/yoleuh/decode-assembly",
-          "collaborators": [],
-          "description": "encryption algorithm that encrypts 1 byte of plain text at a time\\\nx86-64 atnt assembly",
-          "attachments": [],
-          "type": "project",
-          "title": "assembly bit stream cipher decoder",
-          "company": ""
         }
       ]
     },
     {
       "name": "Side Projects",
       "items": [
+        {
+          "id": "BGi1NxO2wVaQU2hHiy3f",
+          "year": "2025",
+          "heading": "old.bsky",
+          "url": "https://github.com/5brian/old.bsky",
+          "collaborators": [],
+          "description": "custom bluesky web client inspired by old.reddit.com",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3580,
+              "height": 2268,
+              "url": "/content/media/oldbsky-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2022,
+              "height": 1156,
+              "url": "/content/media/oldbsky-2.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "old.bsky",
+          "company": ""
+        },
         {
           "id": "ivZHJdNmrWErCflhD1lk",
           "year": "2024",
@@ -606,117 +541,6 @@
           "type": "sideProject",
           "title": "subscriptions calendar",
           "company": ""
-        },
-        {
-          "id": "KLXjYXZz28xMwBVqB3vk",
-          "year": "2024",
-          "heading": "leetcode progress calculator",
-          "url": "https://leetcode-progress.vercel.app/",
-          "collaborators": [],
-          "description": "",
-          "attachments": [
-            {
-              "type": "image",
-              "width": 3360,
-              "height": 2100,
-              "url": "/content/media/leetcode-progress-calculator.gif"
-            }
-          ],
-          "type": "sideProject",
-          "title": "leetcode progress calculator",
-          "company": ""
-        },
-        {
-          "id": "WEn9RDLGglOlglJn6caO",
-          "year": "2024",
-          "heading": "Quandary Language Support for Neovim",
-          "url": "https://github.com/yoleuh/quandary-nvim",
-          "collaborators": [],
-          "description": "A Neovim plugin that provides language support for Quandary, including syntax highlighting.\\\nLua, Neovim API",
-          "attachments": [
-            {
-              "type": "image",
-              "width": 1920,
-              "height": 1080,
-              "url": "/content/media/Quandary-Language-Support-for-Neovim-1.png"
-            },
-            {
-              "type": "image",
-              "width": 1920,
-              "height": 1080,
-              "url": "/content/media/Quandary-Language-Support-for-Neovim-2.png"
-            }
-          ],
-          "type": "sideProject",
-          "title": "Quandary Language Support for Neovim",
-          "company": ""
-        },
-        {
-          "id": "b3VB82zKFUgBPlUyObX0",
-          "year": "2024",
-          "heading": "laundry simulator",
-          "url": "https://laundrys.vercel.app/",
-          "collaborators": [],
-          "description": "",
-          "attachments": [
-            {
-              "type": "image",
-              "width": 3360,
-              "height": 2100,
-              "url": "/content/media/laundry-simulator.gif"
-            }
-          ],
-          "type": "sideProject",
-          "title": "laundry simulator",
-          "company": ""
-        },
-        {
-          "id": "t4KnOOcvlsRY5NwQXSiJ",
-          "year": "2024",
-          "heading": "twitter bot",
-          "url": "https://github.com/yoleuh/twitter-bot",
-          "collaborators": [],
-          "description": "downloads videos\\\nTypescript, Next.JS",
-          "attachments": [],
-          "type": "sideProject",
-          "title": "twitter bot",
-          "company": ""
-        },
-        {
-          "id": "4vB9aQZtRawTtIN1wQui",
-          "year": "2024",
-          "heading": "all my things",
-          "url": "http://brian-tan.me",
-          "collaborators": [],
-          "description": "",
-          "attachments": [],
-          "type": "sideProject",
-          "title": "all my things",
-          "company": ""
-        },
-        {
-          "id": "UxYSHTEn8aWxq6ArISs0",
-          "year": "2023",
-          "heading": "css again (grid)",
-          "url": "https://brian-tan.vercel.app/",
-          "collaborators": [],
-          "description": null,
-          "attachments": [],
-          "type": "sideProject",
-          "title": "css again (grid)",
-          "company": null
-        },
-        {
-          "id": "jv9HOe6Grv6qOtMYW1U2",
-          "year": "2023",
-          "heading": "this is an epilepsy warning",
-          "url": "https://yoleuh.github.io/",
-          "collaborators": [],
-          "description": "centering divs\nhtml, css",
-          "attachments": [],
-          "type": "sideProject",
-          "title": "this is an epilepsy warning",
-          "company": null
         },
         {
           "id": "84jSRB0GXpEO3XdJSMA2",
@@ -765,7 +589,7 @@
           "heading": "bs computer science engineering at ohio state university",
           "url": null,
           "collaborators": [],
-          "description": "math, physics, cs\n\nconcentration: artificial intelligence",
+          "description": "",
           "attachments": [],
           "type": "education",
           "degree": "bs computer science engineering",
@@ -997,12 +821,6 @@
           "platform": "Email",
           "handle": "hi@brian-tan.me",
           "url": "mailto:hi@brian-tan.me"
-        },
-        {
-          "id": "nilFEkdtbK4y2T9tbTM1",
-          "platform": "Email",
-          "handle": "tan.1220@osu.edu",
-          "url": "mailto:tan.1220@osu.edu"
         },
         {
           "id": "0q4q7FPNBdfLI921riwF",

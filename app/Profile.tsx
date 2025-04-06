@@ -14,7 +14,9 @@ const Profile: React.FC<ProfileProps> = ({
     <div className={styles.profile}>
       <div className={styles.profileHeader}>
         <div className={styles.profilePhoto}>
-          <Image src={cv.general.profilePhoto} alt="" width={92} height={92} />
+          {cv.general.profilePhoto ? (
+            <Image src={cv.general.profilePhoto} alt="" width={92} height={92} />
+          ) : null}
         </div>
         <div className={styles.profileInfo}>
           <h1>{cv.general.displayName}</h1>
